@@ -19,9 +19,9 @@ Servers
 ```
 
 ### Opening the Query Tool
-**Method 1:** Right-click on database &rarr; Select "Query Tool"
-**Method 2:** Top toolbar &rarr; Object or Tools &rarr; Query Tool
-**Method 3** Press `ALT + SHIFT + Q`
+- **Method 1:** Right-click on database &rarr; Select "Query Tool"
+- **Method 2:** Top toolbar &rarr; Object or Tools &rarr; Query Tool
+- **Method 3** Press `ALT + SHIFT + Q`
 
 ## Customizing Visual Preferences
 
@@ -36,7 +36,7 @@ File &rarr; Preferences
 - **Use case:** Dark theme helpful for low-light environments
 
 ### Font Size Adjustment
-- **Location:** Editor %rarr; Options &rarr; Font Size
+- **Location:** Editor &rarr; Options &rarr; Font Size
 - **Format:** Relative sizing (not point size)
 - `2.0` = double the default size
 - `1.2` = 20% increase
@@ -46,7 +46,7 @@ File &rarr; Preferences
 ## Query Editor Features
 
 ### Running Queries
-- ** Execute:** Click Play button or press `F5`
+- **Execute:** Click Play button or press `F5`
 - **Example query:** `SELECT * FROM film;`
 
 ### Query Results Tabs
@@ -66,7 +66,7 @@ File &rarr; Preferences
 ### Exporting Results
 - **Format:** CSV (Comma Separated Values)
 - **How to:** Click download icon in results panel
-- Use case:** Sharing results with others or opening in Excel
+- **Use case:** Sharing results with others or opening in Excel
 
 ## Dashboard Features
 
@@ -120,7 +120,7 @@ When a database is selected, multiple tabs provide information:
 
 ### Window Management
 - Query tool may accidentally detach into separate window
-- **Fix:** Drag tab back to main widows and snap it back into place
+- **Fix:** Drag tab back to main window and snap it back into place
 
 ### Best Practices
 - Check Messages tab after each query

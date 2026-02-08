@@ -37,12 +37,15 @@ The focus is on **learning by doing**: writing real SQL, understanding *why* que
 ```text
 sql-bootcamp/
 ├── fundamentals/
-│   ├── [REPLACEME].sql
-│   ├── [REPLACEME].sql
-│   └── [REPLACEME].sql
-├── group_by/
-│   ├── [REPLACEME].sql
-│   └── [REPLACEME].sql
+│   ├── between.md
+│   ├── count.md
+│   └── in.md
+├── query_files/
+│   ├── 01select_statement.sql
+│   ├── 02select_distinct.sql
+│   └── 03count_function.sql
+├── schema/
+│   └── dvdrental.tar 
 ├── joins/
 │   ├── [REPLACEME].sql
 │   ├── [REPLACEME].sql

@@ -1,0 +1,24 @@
+-- SELECT * FROM customer;
+-- SELECT * FROM customer
+-- WHERE first_name='Jared';
+-- SELECT * FROM film;
+-- SELECT * FROM film
+-- WHERE rental_rate > 4;
+-- SELECT * FROM film
+-- WHERE rental_rate > 4 AND replacement_cost >= 19.99;
+-- SELECT * FROM film
+-- WHERE rental_rate > 4 AND replacement_cost >= 19.99
+-- AND rating='R';
+-- SELECT title FROM film
+-- WHERE rental_rate > 4 AND replacement_cost >= 19.99
+-- AND rating='R';
+-- SELECT COUNT(title) FROM film
+-- WHERE rental_rate > 4 AND replacement_cost >= 19.99
+-- AND rating='R';
+-- SELECT COUNT(*) FROM film
+-- WHERE rental_rate > 4 AND replacement_cost >= 19.99
+-- AND rating='R';
+-- SELECT COUNT(*) FROM film
+-- WHERE rating = 'R' OR rating = 'PG-13';
+SELECT * FROM film
+WHERE rating != 'R';
