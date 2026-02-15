@@ -47,11 +47,12 @@ sql-bootcamp/
 ├── schema/
 │   └── dvdrental.tar 
 ├── joins/
-│   ├── [REPLACEME].sql
-│   ├── [REPLACEME].sql
-│   └── [REPLACEME].sql
+│   ├── as.md
+│   ├── full_outer_joins.md
+│   └── inner_join.md
 ├── advanced_commands/
-│   └── [REPLACEME].sql
+│   ├── extract.md
+│   └── timestamps_extract.md
 ├── creating_dbs_tables/
 │   └── [REPLACEME].md
 └── README.md
