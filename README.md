@@ -28,7 +28,6 @@ The focus is on **learning by doing**: writing real SQL, understanding *why* que
 * Constraints and data integrity
 * Basic performance considerations
 
-*(Topics expand as progress continues.)*
 
 ---
 
@@ -45,7 +44,8 @@ sql-bootcamp/
 │   ├── 02select_distinct.sql
 │   └── 03count_function.sql
 ├── schema/
-│   └── dvdrental.tar 
+│   ├── dvdrental.tar 
+│   └── exercises.tar
 ├── joins/
 │   ├── as.md
 │   ├── full_outer_joins.md
@@ -54,7 +54,11 @@ sql-bootcamp/
 │   ├── extract.md
 │   └── timestamps_extract.md
 ├── creating_dbs_tables/
-│   └── [REPLACEME].md
+│   ├── alter.md
+│   ├── check.md
+│   ├── constraints.md
+│   ├── create.md
+│   └── data_types.md
 └── README.md
 ```
 
@@ -79,12 +83,6 @@ This repository prioritizes:
 * **Consistency over speed**
 
 Each section builds on the last, reinforcing core ideas while introducing new patterns.
-
----
-
-## Ongoing Work
-
-This is a living repository. New queries, refactors, and notes will be added as learning progresses.
 
 ---
 
